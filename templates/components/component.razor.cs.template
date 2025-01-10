@@ -1,1 +1,6 @@
-<div>Component: %ComponentName% has been succesfully created.</div>
+namespace %Namespace%;
+
+public partial class %ClassName%
+{
+
+}
